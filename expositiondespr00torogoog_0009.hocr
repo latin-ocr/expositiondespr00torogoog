@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./expositiondespr00torogoog_0009.png"; bbox 0 0 2878 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 1883 814 2030">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 1883 814 2030">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1883 814 2030; baseline 0 -54"><span class='ocrx_word' id='word_1_1' title='bbox 235 2013 239 2030; x_wconf 24' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 370 1883 814 1976; x_wconf 84' lang='lat' dir='ltr'><strong>EXPOSITION</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 129 2095 1023 2302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 2095 1029 2462">
+     <span class='ocr_line' id='line_1_2' title="bbox 129 2095 1023 2302; baseline 0 -6"><span class='ocrx_word' id='word_1_3' title='bbox 129 2163 361 2302; x_wconf 34' lang='lat' dir='ltr'><strong>*Dsss</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 415 2095 1023 2300; x_wconf 55' lang='lat' dir='ltr'><strong>PR&#39;INCIPES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1444 4792">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1444 4792">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1444 4792; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1444 4792; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
